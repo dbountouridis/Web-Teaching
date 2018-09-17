@@ -1338,3 +1338,8 @@ main:fullscreen {
 ## Self-check
 
 Here are a few questions you should be able to answer after having followed the lecture and having worked through the required readings:
+
+1. Consider the following HTML:
+
+```html
+```
